@@ -1,0 +1,2 @@
+# minNumber
+loops6
